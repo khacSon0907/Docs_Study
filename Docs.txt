@@ -1,0 +1,38 @@
+
+	
+		Nhiệm vụ của chúng ta hôm nay : Tạo cho Anh một cái action_tool_bar và đẩy nó lên git hub giúp anh 
+
+		Git_Hub_Team : 
+				_https://github.com/NhatUyen855
+				_https://github.com/Quan2k9-5
+				_https://github.com/PhanThiBachLy 
+		
+		Sau khi tao xong và viết actiorBar và toolBar .
+
+		** Tiếp theo tụi em tải phần mềm này về và giải nén giúp Anh .
+				https://git-scm.com/downloads/win  ===> chỉ cần bấm Next 
+
+		Các bước để Deploy code lên Git : 
+
+			Bước 1 Create a new repository : 
+				__ Lưu ý : Đặt tên viết hoa chữ đầu
+				_ Và để chế độ public và create . 
+			Bước 2 : Bước mở màn hình terminal của source mình muốn gửi lên git : 
+				_ gõ : 
+					+ git init
+					+ git add .
+					+ git commit -m "update source"
+					+ git remote add origin https://github.com/khacSon0907/Docs_Study.git (Nằm trong thư mục của mỗi đứa) 
+					+ git push - origin master nếu không được hoặc bị lỗi hay thêm tai khoản và git giúp Anh 
+
+			+ git config --global user.name"vd:khacson0907"
+			+ git config --global user.email"vd:creatine09072004@gmail.com"
+
+					sau đó mình sẽ git push lại bằng câu lệnh : gi push -u origin master.
+
+			
+
+			
+
+		
+ 
